@@ -2,16 +2,16 @@
 ## Datasource
 ***https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.#***</br>
 ***https://archive.ics.uci.edu/ml/machine-learning-databases/00529/***</br>
-Project Outline
-Problem
-Motivation
-Dataset Information
-Feature Processing and Feature Engineering
-Machiine Learning Model Development
-Prediction/Result
-Evaluating the result/metrics
-Conclusion
-References
+***Project Outline***
+***Problem***</br>
+***Motivation***</br>
+***Dataset Information***</br>
+***Feature Processing and Feature Engineering***</br>
+***Machiine Learning Model Development***</br>
+***Prediction/Result***</br>
+***Evaluating the result/metrics***</br>
+***Conclusion***</br>
+***References***</br>
 # ***Problem Statement***
 Diabetes is a very common disease with many risk factors that can lead to getting diabetes.
 Is it possible to predict whether a patient/individual is at a risk of early stage diabetes given the signs and symptoms.
