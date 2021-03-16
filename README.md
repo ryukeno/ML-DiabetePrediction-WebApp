@@ -1,7 +1,7 @@
-Predicting Early Stage Diabetes Risk In Individuals using Machine Learning
-Datasource
-https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.#
-https://archive.ics.uci.edu/ml/machine-learning-databases/00529/
+## Predicting Early Stage Diabetes Risk In Individuals using Machine Learning
+## Datasource
+***https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.#***
+***https://archive.ics.uci.edu/ml/machine-learning-databases/00529/***
 Project Outline
 Problem
 Motivation
