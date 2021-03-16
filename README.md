@@ -25,26 +25,26 @@ https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dat
 ### ***Description***:
 
 The dataset was collected using direct questionnaires from the patients of Sylhet Diabetes Hospital in Sylhet, Bangladesh and approved by a doctor.
-Metadata:
+Metadata:</br>
 
-The dataset is a multivariate dataset in a CSV format.
-It has 520 datapoints and 17 fields or attributes.
-Attribute Information:
+The dataset is a multivariate dataset in a CSV format.</br>
+It has 520 datapoints and 17 fields or attributes.</br>
+Attribute Information:</br>
 
-Age 1.20-65
-Sex 1. Male, 2.Female
-Polyuria 1.Yes, 2.No.
-Polydipsia 1.Yes, 2.No.
-sudden weight loss 1.Yes, 2.No.
-weakness 1.Yes, 2.No.
-Polyphagia 1.Yes, 2.No.
-Genital thrush 1.Yes, 2.No.
-visual blurring 1.Yes, 2.No.
-Itching 1.Yes, 2.No.
-Irritability 1.Yes, 2.No.
-delayed healing 1.Yes, 2.No.
-partial paresis 1.Yes, 2.No.
-muscle stiness 1.Yes, 2.No.
-Alopecia 1.Yes, 2.No.
-Obesity 1.Yes, 2.No.
-Class 1.Positive, 2.Negative.
+Age 1.20-65</br>
+Sex 1. Male, 2.Female</br>
+Polyuria 1.Yes, 2.No.</br>
+Polydipsia 1.Yes, 2.No.</br>
+sudden weight loss 1.Yes, 2.No.</br>
+weakness 1.Yes, 2.No.</br>
+Polyphagia 1.Yes, 2.No.</br>
+Genital thrush 1.Yes, 2.No.</br>
+visual blurring 1.Yes, 2.No.</br>
+Itching 1.Yes, 2.No.</br>
+Irritability 1.Yes, 2.No.</br>
+delayed healing 1.Yes, 2.No.</br>
+partial paresis 1.Yes, 2.No.</br>
+muscle stiness 1.Yes, 2.No.</br>
+Alopecia 1.Yes, 2.No.</br>
+Obesity 1.Yes, 2.No.</br>
+Class 1.Positive, 2.Negative.</br>
