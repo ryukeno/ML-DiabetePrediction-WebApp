@@ -18,6 +18,7 @@ Is it possible to predict whether a patient/individual is at a risk of early sta
 Since we are using an already labelled dataset to build a predictive model our task will be a supervised machine learning problem</br>
 Therefore we will be using a supervised machine learning classification approach to solve our problem.</br>
 Based on the number of target class we have will will need to build a binary classifier type of ML model.</br>
+</br>
 About Dataset</br>
 Datasource:</br>
 https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.#</br>
